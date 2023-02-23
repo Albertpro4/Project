@@ -9,6 +9,8 @@
        <link rel="stylesheet", href="css/style.css">
 </head>
 <body>
+	
+	
 	<div calss="container mt-4">
 		<?php
               if($_COOKIE['igroki'] == ''):
