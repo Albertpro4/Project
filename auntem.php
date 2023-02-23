@@ -29,7 +29,7 @@ $success = mysqli_real_connect(
 
     if(count($user) == 0)
     {
-      echo "Такой пользователь не найден";
+      echo "Такой пользователь нее найден";
     
     exit();
     
