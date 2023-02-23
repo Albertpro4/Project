@@ -7,6 +7,8 @@
    	FILTER_SANITIZE_STRING);
 
 
+
+
  if(mb_strlen($login) < 5 || mb_strlen($login) > 90) 
  {
    echo "Длина не допустимая суть логина ";
